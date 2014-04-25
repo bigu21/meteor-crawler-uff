@@ -1,5 +1,5 @@
 {
-    "name": "stealer-ufrj",
+    "name": "stealer-uff",
     "description": "Stealer UFF crawls data from idUFF",
     "homepage": "https://github.com/gabrielalmeida/stealer-uff",
     "author": "Gabriel Almeida",
@@ -7,6 +7,7 @@
     "git": "https://github.com/gabrielalmeida/stealer-uff.git",
     "packages": {
         "http-more": {},
+        "request": {},
         "npm": {}
     }
 }
