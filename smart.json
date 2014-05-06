@@ -1,10 +1,10 @@
 {
     "name": "stealer-uff",
     "description": "Stealer UFF crawls data from idUFF",
-    "homepage": "https://github.com/gabrielalmeida/stealer-uff",
+    "homepage": "https://github.com/bigu21/stealer-uff",
     "author": "Gabriel Almeida",
     "version": "0.0.1",
-    "git": "https://github.com/gabrielalmeida/stealer-uff.git",
+    "git": "https://github.com/bigu21/stealer-uff.git",
     "packages": {
         "npm": {}
     }
