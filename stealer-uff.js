@@ -1,6 +1,6 @@
-if(Meteor.isServer) {
-    var cheerio =  Meteor.require('cheerio');
-    var rest =  Meteor.require('restler');
+//if(Meteor.isServer) {
+    //var cheerio =  Meteor.require('cheerio');
+    //var rest =  Meteor.require('restler');
     //var request =  Meteor.require('superagent');
     //var request =  Meteor.require('request');
 
@@ -50,10 +50,10 @@ if(Meteor.isServer) {
             //console.log(res);
         //});
 
-    rest.post('https://sistemas.uff.br/iduff/sid137avUfd98/login.uff', {
-    }).on('complete', function(result, response) {
-        console.log(result);
-        //console.log(response);
-   });
-}
+    //rest.post('https://sistemas.uff.br/iduff/sid137avUfd98/login.uff', {
+    //}).on('complete', function(result, response) {
+        //console.log(result);
+        ////console.log(response);
+   //});
+//}
 
