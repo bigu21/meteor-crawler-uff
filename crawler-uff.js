@@ -12,8 +12,8 @@
         //form: {
             //'login': 'login',
             //'login:btnLogar': 'Logar',
-            //'login:id': "***REMOVED***",
-            //'login:senha': '***REMOVED***',
+            //'login:id': "**REMOVED**",
+            //'login:senha': '**REMOVED**',
             //'javax.faces.ViewState': 'j_id1'
         //},
         //jar: jar,
@@ -42,8 +42,8 @@
         //.send({
             //'login': 'login',
             //'login:btnLogar': 'Logar',
-            //'login:id': "***REMOVED***",
-            //'login:senha': '***REMOVED***',
+            //'login:id': "**REMOVED",
+            //'login:senha': '**REMOVED**',
             //'javax.faces.ViewState': 'j_id1'
         //})
         //.end(function(error, res) {
